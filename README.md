@@ -14,8 +14,11 @@ NF = 5w + 25x + 20y + δ
 
 where
 `w = avg(user submitted ratings)` and `1≤w≤10`,
+
 `x = uptime_rate` and `0≤x≤1`
+
 `y = days online as rate` and `0≤y≤1`
+
 `δ = ASN score` and 
 
 ```
